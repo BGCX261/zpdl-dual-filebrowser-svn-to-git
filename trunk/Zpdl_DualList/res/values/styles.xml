@@ -1,0 +1,63 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="TextAppearance_wb_path">
+        <item name="android:textColor">@color/api_wb_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="TextAppearance_wb_row_name">
+        <item name="android:textColor">@color/api_wb_foreground</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance_wb_row_info">
+        <item name="android:textColor">@color/duallist_wb_text_row_info</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextAppearance_wb_dialog_detail_name">
+        <item name="android:textColor">@color/api_wb_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="TextAppearance_wb_dialog_detail_title">
+        <item name="android:textColor">@color/api_wb_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="TextAppearance_wb_dialog_detail_content">
+        <item name="android:textColor">@color/api_wb_foreground</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="TextAppearance_bg_path">
+        <item name="android:textColor">@color/api_bg_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="TextAppearance_bg_row_name">
+        <item name="android:textColor">@color/api_bg_foreground</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance_bg_row_info">
+        <item name="android:textColor">@color/duallist_bg_text_row_info</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextAppearance_bg_dialog_detail_name">
+        <item name="android:textColor">@color/api_bg_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="TextAppearance_bg_dialog_detail_title">
+        <item name="android:textColor">@color/api_bg_highlight</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="TextAppearance_bg_dialog_detail_content">
+        <item name="android:textColor">@color/api_bg_foreground</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>

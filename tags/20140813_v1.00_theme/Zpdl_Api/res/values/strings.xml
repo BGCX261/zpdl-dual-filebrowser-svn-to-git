@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Press_the_back_key_again_to_exit">Press the back key again to exit</string>
+    <string name="Exit">Exit</string>
+    <string name="Do_you_want_exit">Do you want exit?</string>
+</resources>

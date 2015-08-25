@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="File_is_empty">File is empty</string>
+    <string name="File">File</string>
+    <string name="Execution">Execution</string>
+    <string name="Share">Share</string>
+    <string name="Detail">Detail</string>
+    <string name="Select_all">Select all</string>
+    <string name="Unselect_all">Unselect all</string>
+    <string name="Add_folder">Add folder</string>
+    <string name="Enter_new_folder_name">Enter new folder name</string>
+    <string name="Failed_add_folder">Failed add folder</string>
+    <string name="Rename">Rename</string>
+    <string name="Enter_the_name">Enter the name</string>
+    <string name="Failed_rename">Failed rename</string>
+    <string name="Copy">Copy</string>
+    <string name="files_copied">File copied</string>
+    <string name="number_files_copied">%d files copied</string>
+    <string name="Move">Move</string>
+    <string name="files_moved">File moved</string>
+    <string name="number_files_moved">%d files moved</string>
+    <string name="Delete">Delete</string>
+    <string name="files_deleted">File deleted</string>
+    <string name="number_files_deleted">%d files deleted</string>
+    <string name="Do_you_want_to_delete">Do you want to delete ?</string>
+    <string name="Do_you_want_to_delete_number_files">Do you want to delete %d files ?</string>
+
+    <string name="Dialog_Size">Size</string>
+    <string name="Dialog_Location">Location</string>
+    <string name="Dialog_Last_modified_date">Last modified Date</string>
+    <string name="Dialog_Resolution">Resolution</string>
+    <string name="Dialog_Duration">Duration</string>
+    <string name="Dialog_File_name">File name</string>
+    <string name="Dialog_Album">Album</string>
+    <string name="Dialog_Artist">Artist</string>
+    <string name="Dialog_Composer">Composer</string>
+</resources>

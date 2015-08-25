@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2004-2013 NXP Software. All rights are reserved.
+     Reproduction in whole or in part is prohibited without the prior
+     written consent of the copyright owner.
+
+     This software and any compilation or derivative thereof is and
+     shall remain the proprietary information of NXP Software and is
+     highly confidential in nature. Any and all use hereof is restricted
+     and is subject to the terms and conditions set forth in the
+     software license agreement concluded with NXP Software.
+
+     Under no circumstances is this software or any derivative thereof
+     to be combined with any Open Source Software in any way or
+     licensed under any Open License Terms without the express prior
+     written  permission of NXP Software.
+
+     For the purpose of this clause, the term Open Source Software means
+     any software that is licensed under Open License Terms. Open
+     License Terms means terms in any license that require as a
+     condition of use, modification and/or distribution of a work
+
+              1. the making available of source code or other materials
+                 preferred for modification, or
+
+              2. the granting of permission for creating derivative
+                 works, or
+
+              3. the reproduction of certain notices or license terms
+                 in derivative works or accompanying documentation, or
+
+              4. the granting of a royalty-free license to any party
+                 under Intellectual Property Rights
+
+     regarding the work and/or any work that contains, is combined with,
+     requires or otherwise is based on the work.
+
+     This software is provided for ease of recompilation only.
+     Modification and reverse engineering of this software are strictly
+     prohibited.
+-->
+<resources>
+    <color name="api_wb_background">#FFF1F1F2</color>
+    <color name="api_wb_foreground">#FF040404</color>
+    <color name="api_wb_highlight">#FF23A5D5</color>
+    <color name="api_wb_dialog_title">#FF33B5E5</color>
+    <color name="api_wb_dialog_button_text">#FF242424</color>
+    <color name="api_wb_selector_hover">#FF18D7E5</color>
+    
+    <color name="api_bg_background">#FF141414</color>
+    <color name="api_bg_foreground">#FFF1F1F2</color>
+    <color name="api_bg_highlight">#FF33B533</color>
+    <color name="api_bg_dialog_title">#FF33B533</color>
+    <color name="api_bg_dialog_button_text">#FFE1E1E2</color>
+    <color name="api_bg_selector_hover">#FF18D735</color>
+</resources>

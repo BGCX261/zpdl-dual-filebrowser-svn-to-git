@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Yes">확인</string>
+    <string name="No">아니오</string>
+    <string name="Ok">확인</string>
+    <string name="Cancel">취소</string>
+    <string name="Press_the_back_key_again_to_exit">뒤로 키를 한번 더 누르시면 종료됩니다.</string>
+    <string name="Exit">종료</string>
+    <string name="Do_you_want_exit">종료 하시겠습니까?</string>
+</resources>

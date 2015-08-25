@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    >
+	<LinearLayout
+	    android:id="@+id/dialog_detail_layout"
+	    android:layout_width="match_parent" 
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    >
+
+	    <TextView
+	        android:id="@+id/dialog_detail_title"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	    />
+        
+       <TextView
+            android:id="@+id/dialog_detail_filename_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Dialog_File_name"            
+        />
+        <TextView
+            android:id="@+id/dialog_detail_filename_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"           
+        />
+        
+        <TextView
+            android:id="@+id/dialog_detail_album_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Dialog_Album"            
+        />
+        <TextView
+            android:id="@+id/dialog_detail_album_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"           
+        />
+
+         <TextView
+            android:id="@+id/dialog_detail_artist_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Dialog_Artist"            
+        />
+        <TextView
+            android:id="@+id/dialog_detail_artist_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"           
+        />
+        
+        <TextView
+            android:id="@+id/dialog_detail_composer_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Dialog_Composer"            
+        />
+        <TextView
+            android:id="@+id/dialog_detail_composer_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"           
+        />
+        
+	    <LinearLayout
+            android:layout_width="match_parent" 
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:id="@+id/dialog_detail_duration_subject"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"  
+                android:text="@string/Dialog_Duration"         
+            />
+            <TextView
+                android:id="@+id/dialog_detail_duration_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            />
+        </LinearLayout>
+        
+        
+	    <LinearLayout
+		    android:layout_width="match_parent" 
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    >
+		    <TextView
+		        android:id="@+id/dialog_detail_size_subject"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"  
+		        android:text="@string/Dialog_Size"           
+		    />
+		    <TextView
+	            android:id="@+id/dialog_detail_size_content"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	        />
+	    </LinearLayout>
+	
+	    <TextView
+	        android:id="@+id/dialog_detail_folder_subject"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Dialog_Location"            
+	    />
+	    <TextView
+	        android:id="@+id/dialog_detail_folder_content"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"           
+	    />
+	    
+	    <TextView
+	        android:id="@+id/dialog_detail_last_modified_time_subject"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Dialog_Last_modified_date"            
+	    />
+	    <TextView
+	        android:id="@+id/dialog_detail_last_modified_time_content"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	    />
+	</LinearLayout>
+</ScrollView>

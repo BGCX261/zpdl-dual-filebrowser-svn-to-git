@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    >
+	<EditText
+	    android:id="@+id/dialog_file_editor"
+	    android:layout_width="match_parent" 
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/api_wb_edittext_textfield"
+	    android:typeface="serif"
+	    android:textColor="@color/api_wb_foreground"
+	    android:privateImeOptions="inputType=filename;defaultInputmode=english"
+	    android:inputType="textNoSuggestions"
+	    android:textCursorDrawable="@drawable/api_wb_cursor"
+	    android:textColorHighlight="#9933b5E5"
+        android:textSelectHandleLeft="@drawable/api_wb_text_select_handle_left"
+        android:textSelectHandleRight="@drawable/api_wb_text_select_handle_right"
+        android:textSelectHandle="@drawable/api_wb_text_select_handle_middle"
+	    />
+</FrameLayout>

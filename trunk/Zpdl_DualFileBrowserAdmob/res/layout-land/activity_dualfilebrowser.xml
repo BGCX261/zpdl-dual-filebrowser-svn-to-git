@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+    <TextView
+        android:id="@+id/kh_duallist_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#1f1f1f"
+        android:paddingLeft="6dip"
+        android:paddingTop="4dip"
+        android:paddingRight="6dip"
+        android:paddingBottom="4dip"
+        android:singleLine="true"
+        android:ellipsize="start"
+        android:textSize="15sp"
+        android:textColor="#efefef"
+        android:textStyle="bold"
+        android:typeface="sans"
+    />
+	<fragment class="zpdl.studio.duallist.DualListFragment"
+        android:id="@+id/kh_duallist_fragment"
+        android:layout_width="match_parent" 
+        android:layout_height="match_parent" 
+        android:layout_below="@id/kh_duallist_info"
+    />
+</RelativeLayout>

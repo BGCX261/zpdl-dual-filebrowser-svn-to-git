@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="File_is_empty">파일이 없습니다</string>
+    <string name="File">파일</string>
+    <string name="Execution">실행</string>
+    <string name="Share">공유</string>
+    <string name="Detail">세부 정보</string>
+    <string name="Select_all">전체 선택</string>
+    <string name="Unselect_all">전체 선택 해제</string>
+    <string name="Add_folder">폴더 만들기</string>
+    <string name="Enter_new_folder_name">새로운 폴더 이름</string>
+    <string name="Failed_add_folder">폴더 만들기를 실패하였습니다</string>
+    <string name="Rename">이름 변경</string>
+    <string name="Enter_the_name">이름 입력</string>
+    <string name="Failed_rename">이름 변경에 실패하였습니다</string>
+    <string name="Copy">복사</string>
+    <string name="files_copied">복사에 실패하였습니다</string>
+    <string name="number_files_copied">%d 개의 파일이 복사되었습니다</string>
+    <string name="Move">이동</string>
+    <string name="files_moved">이동에 실패하였습니다</string>
+    <string name="number_files_moved">%d 개의 파일이 이동되었습니다</string>
+    <string name="Delete">삭제</string>
+    <string name="files_deleted">삭제되었습니다</string>
+    <string name="number_files_deleted">%d 개의 파일이 삭제되었습니다</string>
+    <string name="Do_you_want_to_delete">파일을 삭제하겠습니까 ?</string>
+    <string name="Do_you_want_to_delete_number_files">%d 개의 파일을 삭제하겠습니까 ?</string>
+    
+    <string name="Dialog_Size">크기</string>
+    <string name="Dialog_Location">위치</string>
+    <string name="Dialog_Last_modified_date">최근 수정 시간</string>
+    <string name="Dialog_Resolution">해상도</string>
+    <string name="Dialog_Duration">길이</string>
+    <string name="Dialog_File_name">파일 이름</string>
+    <string name="Dialog_Album">앨범</string>
+    <string name="Dialog_Artist">아티스트</string>
+    <string name="Dialog_Composer">작곡가</string>
+</resources>
